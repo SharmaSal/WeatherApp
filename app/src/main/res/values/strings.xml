@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="no_network_message">Unable to connect to network </string>
+    <string name="no_data_available">No cocktails available </string>
+    <string name="cities_list_title">Select the city :</string>
+
+    <string name="weather_details_view_title">Weather Details of</string>
+    <string name="weather_details_view_weather">Weather :  </string>
+    <string name="weather_details_view_sunrise">Time of Sunrise :  </string>
+    <string name="weather_details_view_sunset">Time of Sunset : </string>
+    <string name="weather_details_view_temp">Temperature :  </string>
+    <string name="weather_details_view_pressure">Pressure :  </string>
+    <string name="weather_details_view_humidity">Humidity :  </string>
+    <string name="weather_details_view_temp_min">Minimum Temp : </string>
+    <string name="weather_details_view_temp_max">Maximum Temp : </string>
+
+
+</resources>
